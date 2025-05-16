@@ -27,6 +27,8 @@ can be found.
 </li>
 <li>[<a href='https://jira.mongodb.org/browse/TOOLS-3797'>TOOLS-3797</a>] -         Security Finding: Update package `jwt`
 </li>
+<li>[<a href='https://jira.mongodb.org/browse/VULN-602'>VULN-602</a>] -         Security Finding: Fix CVE-2025-22870 by updating golang.org/x/net to v0.38.0
+</li>
 </ul>
 
 ### Release
